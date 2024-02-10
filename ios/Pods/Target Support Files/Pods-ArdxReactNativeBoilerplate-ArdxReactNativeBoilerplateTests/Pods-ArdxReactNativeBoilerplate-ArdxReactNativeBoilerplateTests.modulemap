@@ -1,0 +1,6 @@
+module Pods_ArdxReactNativeBoilerplate_ArdxReactNativeBoilerplateTests {
+  umbrella header "Pods-ArdxReactNativeBoilerplate-ArdxReactNativeBoilerplateTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
